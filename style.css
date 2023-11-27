@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Calibri,sans-serif;
+}
+.blue-banner{
+    display: flex;
+    width: 100%;
+    height: 45px;
+    background-color: #004b93;
+    justify-content: space-between;
+
+   
+    border: #0065c3;
+
+}
+.left-logo{
+    border-width: thin;
+    padding-left: 53px;
+    word-spacing: 3px;
+    padding-top: 9px;
+    cursor: pointer;
+}
+
+#logo1{
+    border: #0065c3 solid 1px;
+    line-height: 1.5;
+    width:24px;
+    border-radius: 4px;
+    text-align: center;
+
+
+}
+#logo2{
+    border: #0065c3 solid 1px;
+    line-height: 1.5;
+    width: 25px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#logo3{
+    color: #fff;
+    border: #0065c3 solid 1px;
+    line-height: 1.5;
+    width: 25px;
+    border-radius: 5px;
+    text-align: center;
+   display: inline-block;
+}
+.right-logo{
+    border-width: thin;
+    padding-left: 50px;
+    padding-top: 13px;
+    margin-right: 56px;
+    font-size: 18px;
+    word-spacing: 7px;
+    
+
+}
+.white-banner{
+    width: 100%;
+    height: 66px;
+    display: flex;
+    background-color: #fff;
+}
+.mirinda{
+
+    margin-left: 53px;
+    padding-top: 10px;
+   
+}
+.mirinda img{
+    width: 307px;
+    height: 47px;
+    cursor: pointer;
+}
+.writting a{
+text-decoration: none;
+font-family: Calibri,sans-serif;
+position: relative;
+padding-left: 10px;
+color: #004b93;
+}
+
+.writting{
+    padding-top: 20px;
+    padding-left: 52px;
+    font-size: 22px;
+    word-spacing: 25px;
+}
+* {
+    font-family: Calibri,sans-serif;
+    box-sizing: border-box;
+    outline: none;
+    -webkit-text-size-adjust: none;
+}
+.content{
+    width: 100%;
+    height: 100%;
+    background-color: linear-gradient(to bottom,#F28D23,#E84121);
+
+}
+.bg{
+    background-image: linear-gradient(to bottom,#F28D23,#E84121);
+    padding-bottom: 50%;
+    display: flex;
+  
+  
+}
+.left-image img{
+   position: relative;
+   top: 635.5px;
+    
+   
+}
+.right-image img{
+    padding-left: 817px;
+    position: relative;
+    top: 635.5px;
+
+
+}
+.mirinda-logo{
+    position: absolute;
+    width: 88px;
+    height: 60px;
+    padding-top: 41px;
+    padding-left: 53px;
+}
+.home{
+    position: absolute;
+    padding-top: 110px;
+    padding-left: 53px;
+    
+
+}
+.home a{
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #fff;
+    word-spacing: 2px;
+}
+.home a:hover{
+    text-decoration: underline;
+}
+.kuppi1border{
+    position: absolute;
+    background-color: hsla(0,0%,100%,.3);
+    width: 267px;
+    height: 254px;
+    border-radius:5px ;
+    margin-top: 158px;
+    margin-left: 53px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.kuppi2border{
+    position: absolute;
+    background-color: hsla(0,0%,100%,.3);
+    width: 267px;
+    height: 254px;
+    border-radius:5px ;
+    margin-top: 158px;
+    margin-left: 348px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+ .kuppi3border{
+    position: absolute;
+    background-color: hsla(0,0%,100%,.3);
+    width: 267px;
+    height: 254px;
+    border-radius:5px ;
+    margin-top: 158px;
+    margin-left: 645px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.kuppi4border{
+    position: absolute;
+    background-color: hsla(0,0%,100%,.3);
+    width: 267px;
+    height: 254px;
+    border-radius:5px ;
+    margin-top: 158px;
+    margin-left: 943px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.kuppi5border{
+    position: absolute;
+    background-color: hsla(0,0%,100%,.3);
+    width: 267px;
+    height: 254px;
+    border-radius:5px ;
+    margin-top: 444px;
+    margin-left: 53px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.kuppi6border{
+    position: absolute;
+    background-color: hsla(0,0%,100%,.3);
+    width: 267px;
+    height: 254px;
+    border-radius:5px ;
+    margin-top: 444px;
+    margin-left: 348px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.kuppi7border{
+    position: absolute;
+    background-color: hsla(0,0%,100%,.3);
+    width: 267px;
+    height: 254px;
+    border-radius:5px ;
+    margin-top: 444px;
+    margin-left: 645px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.kuppi8border{
+    position: absolute;
+    background-color: hsla(0,0%,100%,.3);
+    width: 267px;
+    height: 254px;
+    border-radius:5px ;
+    margin-top: 444px;
+    margin-left: 943px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+} 
+.kuppis img{
+    margin-left: 95px;
+    height: 164px;
+    width: 53px;
+}
+.kuppis{
+    position: absolute;
+    height: 178px;
+
+}
+.kuppis p{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 196ppx;
+    font-size: 20px;
+    color: #fff;
+    margin-right: 20px;
+}
+.lastbanner{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.lastbanner img{
+    padding-left: 50px;
+    padding-top: 16px;
+    width: 322px;
+    height: 57px;
+}
+footer{
+    width: 1263px;
+    height: 70px;
+}
+.lastbanner p{
+    font-size: 16px;
+    color: #0065c3;
+    text-align: center;
+    padding-top: 26px;
+    padding-right: 51px;
+}
+.smallblue{
+    width: 100%;
+    height: 10px;
+    background-color: #004b93;
+}
